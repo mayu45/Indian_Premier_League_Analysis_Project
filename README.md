@@ -7,4 +7,5 @@ Indian_Premier_League_Analysis_Project
 
 
 #Output Screenshot
-"C:\Users\MADHURI MAM\OneDrive\Desktop\Snapshot.png" 
+<img width="1218" height="597" alt="Snapshot" src="https://github.com/user-attachments/assets/97bcb0ea-ac15-45da-90d9-dd1c1f75041a" />
+
