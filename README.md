@@ -1,6 +1,6 @@
 # Project Title
 Indian_Premier_League_Analysis_Project
-
+    
 
 # Project Description
 This project is an Excel-based Interactive Dashboard built to analyze Indian Premier League (IPL) performance across multiple seasons.It includes slicers, charts, and summary metrics to help users exploreteams, winners, matches, and trends from 2008 onwards.The dashboard is fully automated using formulas, pivot tables, and advanced Excel visualization techniques.
